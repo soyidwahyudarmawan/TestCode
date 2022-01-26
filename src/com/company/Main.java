@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Hai Darmawan");
         System.out.println("Kamu Ganteng Deh");
         System.out.println("Aku jadi iri");
-        System.out.println("Huft");
+        System.out.println("Hufttt");
     }
 }
