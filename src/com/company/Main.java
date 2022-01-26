@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Kamu Ganteng Deh");
         System.out.println("Aku jadi iri");
         System.out.println("Hufttt");
+        System.out.println("cediih");
     }
 }
