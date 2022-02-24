@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hai Wahyu");
         System.out.println("Hai Zheyeng");
+        System.out.println("ini wahyu");
     }
 }
